@@ -1,7 +1,14 @@
 Quiz App
-- An educational app that quizzes a user about XML
+An educational app that quizzes a user about XML
+
+Project Summay 
+--------------
+An educational andriod app with 7 questions
+The purpose of this app is educate users about XML
+XML has been used extensively throught the course of Google Africa Challenge Scholarship: Android Basics
 
 
+http://quizbucket.org/xml-quiz-questions
 
 Pre-requisites
 --------------
