@@ -1,5 +1,5 @@
-# QuizApp
-An educational app that quizzes a user about XML
+Quiz App
+- An educational app that quizzes a user about XML
 
 
 
