@@ -5,8 +5,8 @@ An educational app that quizzes a user about XML
 
 Project Summay 
 --------------
-An educational andriod app with 7 questions
-The purpose of this app is educate users about XML
+An educational andriod app with 7 questions.
+The purpose of this app is educate users about XML format.
 XML has been used extensively throught the course of Google Africa Challenge Scholarship: Android Basics
 Questions and answers for the app have been taken from http://quizbucket.org/xml-quiz-questions
 
